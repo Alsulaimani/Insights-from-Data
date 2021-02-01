@@ -1,5 +1,5 @@
 # Insights-from-Data
-##Project #1 in Business Analytics by Udacity 
+## Project #1 in Business Analytics by Udacity 
 
 The project asked for three insights from one of three given dashboards.
 
