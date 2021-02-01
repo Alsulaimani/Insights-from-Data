@@ -1,5 +1,6 @@
 # Insights-from-Data
 Project #1 in Business Analytics by Udacity 
+
 The project asked for three insights from one of three given dashboards
 I choose to use Malaria in Africa dashboard shown in the link below
 Insights and descriptions are provided in the PDF file
